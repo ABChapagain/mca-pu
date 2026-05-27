@@ -1,7 +1,7 @@
 
 # 📘 MCA PU – Notes, Model Questions & Resources
 
-A complete and organized collection of MCA (Master of Computer Applications) – Pokhara University study materials.
+A complete and organized collection of MCA (Master of Computer Applications) – Purbanchal University study materials.
 
 This repository includes **notes**, **syllabus breakdowns**, **model questions**, **solved numericals**, **lab works**, **PYQs**, **assignments**, and **exam-focused resources** for all semesters.
 
